@@ -1,0 +1,36 @@
+.cuadrado
+        {
+            width: 400px; height: 400px;
+            padding: 10px;
+            margin-top: 20px;
+            line-height: 400px;
+            text-align: center;
+        }
+        .text-360
+        {
+            font-size: 360px;
+        }
+        .text-280
+        {
+            font-size: 280px;
+        }
+        .text-white
+        {
+            color: white;
+        }
+        .text-purple
+        {
+            color: purple;
+        }
+        .ca
+        {
+         background-color: blue;
+        }
+        .cr
+        {
+            background-color: tomato;
+        }
+        #cg
+        {
+            background-color: pink;
+        }
